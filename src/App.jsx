@@ -14,7 +14,7 @@ import {
 } from 'lucide-react';
 
 // Logo da UFPR (URL pública)
-const UFPR_LOGO_URL = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_UFPR.png";
+const UFPR_LOGO_URL = "https://ufpr.br/wp-content/uploads/2015/11/ufpr_1000.jpg";
 
 const App = () => {
   const [activeTab, setActiveTab] = useState('single'); // 'single' or 'batch'
